@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    ".eslintrc.json": true,
+    "**/.next": true
+  }
+}
