@@ -13,3 +13,14 @@
   background-color: #198754;
   border-radius: 5px;
 }
+
+.center-img {
+  max-width: 30%;
+  min-width: 100px;
+  border-radius: 50%;
+}
+
+.is-justify-content-center {
+  display: flex;
+  justify-content: center;
+}

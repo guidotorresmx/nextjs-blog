@@ -32,29 +32,23 @@ export default function Navbar({ children }) {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <a className="nav-link" href="./blog/">
+              <a className="nav-link" href="./blog">
                 Blog
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="./eleventy-website/about.html">
+              <a className="nav-link" href="./about">
                 About
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="./business-plan/">
-                Business Plan
+              <a className="nav-link" href="./copilot/">
+                Github Copilot
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="./react-website/">
-                Small demo
-              </a>
-            </li>
-
-            <li className="nav-item">
-              <a className="nav-link" href="./ephemeral-films/">
-                Movies demo
+              <a className="nav-link" href="./deploying/">
+                Deploying Sites
               </a>
             </li>
           </ul>
