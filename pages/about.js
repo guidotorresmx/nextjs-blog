@@ -27,58 +27,36 @@ export default function about() {
               </p>
               <p>
                 <a
-                  target="_blank"
                   rel="noopener"
                   href="https://img.shields.io/badge/-FFF?&amp;logo=mouse"
                 >
                   blog &#x1F5B1;&#xFE0F;&#x1F4BB;
                 </a>
                 |
-                <a
-                  target="_blank"
-                  rel="noopener"
-                  href="http://twitter.com/guidotorresmx"
-                >
+                <a rel="noopener" href="http://twitter.com/guidotorresmx">
                   twitter &#x1F424;&#x2712;&#xFE0F;
                 </a>
                 |
-                <a
-                  target="_blank"
-                  rel="noopener"
-                  href="http://github.com/guidotorresmx"
-                >
+                <a rel="noopener" href="http://github.com/guidotorresmx">
                   github &#x1F408;&zwj;&#x2B1B;&#x1F419;
                 </a>
                 |
-                <a
-                  target="_blank"
-                  rel="noopener"
-                  href="http://www.instagram.com/guidotorresmx"
-                >
+                <a rel="noopener" href="http://www.instagram.com/guidotorresmx">
                   instagram &#x1F933;
                 </a>
                 |
                 <a
-                  target="_blank"
                   rel="noopener"
                   href="http://www.linkedin.com/in/guidotorresmx"
                 >
                   linkedin &#x1F578;&#xFE0F;&#x1F9D1;&zwj;&#x1F4BB;
                 </a>
                 |
-                <a
-                  target="_blank"
-                  rel="noopener"
-                  href="http://www.facebook.com/guidotorresmx"
-                >
+                <a rel="noopener" href="http://www.facebook.com/guidotorresmx">
                   facebook &#x1F642;&#x1F4D5;
                 </a>
                 | <a href="marco@guidotorres.mx">email &#x1F4E7;</a> |
-                <a
-                  target="_blank"
-                  rel="noopener"
-                  href="http://t.me/guidotorresmx"
-                >
+                <a rel="noopener" href="http://t.me/guidotorresmx">
                   telegram &#x1F4E4;&#x2708;&#xFE0F;
                 </a>
               </p>
